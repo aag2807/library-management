@@ -12,3 +12,4 @@ CREATE TABLE [IF NOT EXISTS] [dbo].users (
     LastLoginDate TEXT NOT NULL,
     DeletedAt TEXT,
 ) [WITHOUT ROWID];
+
